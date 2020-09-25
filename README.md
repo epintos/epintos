@@ -1,4 +1,4 @@
-### Hi, I'm Esteban 👋 👨🏻‍💻 🏄🏻‍♂️ 🇳🇱
+### Hi, I'm Esteban 👋 👨🏻‍💻 🏄🏻‍♂️ 🎸 🇳🇱
 
 <!--
 **epintos/epintos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
